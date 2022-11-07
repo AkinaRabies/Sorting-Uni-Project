@@ -1,7 +1,7 @@
 # Sorting-Uni-Project
 Um trabalho da faculdade sobre sorting/ordenação.
 
-Por: Matheus Barroso e Luísa Soares
+Por: Matheus Barros e Luísa Soares
 
 Sorting, também chamado de ordenação são métodos na linguagem de programação para colocar elementos de uma sequências dados em uma certa ordem.
 
