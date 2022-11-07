@@ -1,6 +1,8 @@
 # Sorting-Uni-Project
 Um trabalho da faculdade sobre sorting/ordenação.
 
+Por: Matheus Barroso e Luísa Soares
+
 Sorting, também chamado de ordenação são métodos na linguagem de programação para colocar elementos de uma sequências dados em uma certa ordem.
 
 No caso, temos quatro tipos de ordenação em C/C++: método da bolha (bubble sort), método da seleção (selection sort), método da inserção (insertion sort) e heapsort.
